@@ -1,6 +1,5 @@
 <!--
-	This is a test webpage to see if it can be accessed from
-	a anywhere!
+	This is a test webpage.
 -->
 
 <?php echo "Hello Ines!"; ?>
